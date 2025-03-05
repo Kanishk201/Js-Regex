@@ -16,3 +16,6 @@ validatePin("A400088");
 
 //UC3
 validatePin("400088B");
+
+//UC4
+validatePin("400 088");
