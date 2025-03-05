@@ -13,3 +13,6 @@ validatePin("400088");
 
 //UC2
 validatePin("A400088");
+
+//UC3
+validatePin("400088B");
