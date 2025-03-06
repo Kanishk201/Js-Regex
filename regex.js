@@ -44,3 +44,6 @@ validateEmail("abc@bridgelabzcom"); // Invalid Email
 
 // Email UC-4
 validateEmail("abc.@bridgelabz.co.in"); // Invalid Email
+
+// Email UC-5 
+validateEmail("abcxyz@bridgelabz.co.abc"); // Invalid Email
